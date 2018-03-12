@@ -1,0 +1,35 @@
+body{
+   background-image: url("../asset/img/bg.jpg");
+
+    width: 80%;
+}
+.main{
+    width: 50%;
+   margin-top: 10%;
+    background-color: bisque;
+    margin-left: 25%;
+    margin-right: 25%;
+    position:absolute;
+    border: 1px solid black;
+}
+h1{
+    font-size: 30px;
+}
+.container{
+ padding: 10px;  
+   text-align: center;
+}
+.panel{
+   
+    text-align: center;
+    background-color: bisque;
+  margin: 0 10%;
+  padding-bottom: 20px;
+}
+.txtNbr{
+    text-align: center;
+    width: 200px;
+    color: orange;
+    font-size: 25px;
+    justify-content: center;
+}
